@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eletroledcabofrio.com.br/sitemap.xml
